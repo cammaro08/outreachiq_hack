@@ -3,3 +3,5 @@ dist/
 .env
 .DS_store
 *.tsbuildinfo
+logs/
+.claude/data/
