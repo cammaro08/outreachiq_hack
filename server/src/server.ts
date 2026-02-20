@@ -5,15 +5,16 @@ import { scrapeCompanyInfo } from "./lib/scraper.js";
 import { searchPerson } from "./lib/search.js";
 import { findCompanyNews } from "./lib/news.js";
 
+// Method chaining is required so TypeScript can infer tool types for widgets
 const server = new McpServer(
   { name: "outreachiq", version: "0.0.1" },
   { capabilities: {} },
-);
+)
 
 // Apollo.io tool disabled — uncomment when API key is working
-// server.registerTool("find_person", { ... });
+// .registerTool("find_person", { ... })
 
-server.registerTool("scrape_company_info", {
+.registerWidget("scrape_company_info", {}, {
   description:
     "Scrape a company's web page to extract title, meta description, and body text. Useful for researching a company before outreach.",
   inputSchema: {
@@ -55,9 +56,9 @@ server.registerTool("scrape_company_info", {
       isError: true,
     };
   }
-});
+})
 
-server.registerTool("search_person", {
+.registerWidget("search_person", {}, {
   description:
     "Search the web for a person by name and company. Returns the top search results with titles, snippets, and URLs. Useful for finding someone's LinkedIn, bio, or public presence before outreach.",
   inputSchema: {
@@ -102,9 +103,9 @@ server.registerTool("search_person", {
       isError: true,
     };
   }
-});
+})
 
-server.registerTool("find_company_news", {
+.registerWidget("find_company_news", {}, {
   description:
     "Find recent news articles about a company. Returns the top 5 most recent headlines with source, date, and link. Great for finding personalisation hooks for outreach.",
   inputSchema: {

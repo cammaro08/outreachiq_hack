@@ -11,7 +11,9 @@ const nodeEnv = process.env.NODE_ENV || "development";
 
 if (nodeEnv !== "production") {
   const { devtoolsStaticServer } = await import("@skybridge/devtools");
+  const { widgetsDevServer } = await import("skybridge/server");
   app.use(await devtoolsStaticServer());
+  app.use(await widgetsDevServer());
 }
 
 app.use(cors());
