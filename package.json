@@ -13,9 +13,12 @@
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.26.0",
     "@t3-oss/env-core": "^0.13.10",
+    "@vitejs/plugin-react": "^5.1.4",
     "cheerio": "^1.0.0",
     "cors": "^2.8.6",
     "express": "^5.2.1",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
     "skybridge": ">=0.33.1 <1.0.0",
     "zod": "^4.3.6"
   },
@@ -23,6 +26,8 @@
     "@skybridge/devtools": ">=0.33.1 <1.0.0",
     "@types/cors": "^2.8.19",
     "@types/express": "^5.0.6",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
     "alpic": "^1.84.3",
     "nodemon": "^3.1.11",
     "tsx": "^4.21.0",
