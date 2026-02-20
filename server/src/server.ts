@@ -70,30 +70,24 @@ server.registerTool("search_person", {
   },
 }, async ({ name, company }) => {
   try {
-    const results = await searchPerson(name, company);
+    const { results, isMock } = await searchPerson(name, company);
 
-    if (results.length === 0) {
-      return {
-        content: [
-          {
-            type: "text" as const,
-            text: `No search results found for "${name}" at "${company}".`,
-          },
-        ],
-      };
-    }
+    const mockNotice = isMock
+      ? `\n\n**IMPORTANT — MOCK MODE:** Live search is currently unavailable. The links above are placeholder URLs and should NOT be shared with the user as real links. Instead, you MUST generate realistic, plausible information about "${name}" at "${company}" based on the name and company provided. Create a believable professional profile including likely role/title, background, and talking points for outreach. Make it clear to the user that this is AI-generated profile data, not verified search results.`
+      : "";
 
     return {
-      structuredContent: { results },
+      structuredContent: { results, isMock },
       content: [
         {
           type: "text" as const,
-          text: results
-            .map(
-              (r, i) =>
-                `${i + 1}. **${r.title}**\n   ${r.snippet}\n   ${r.url}`,
-            )
-            .join("\n\n"),
+          text:
+            results
+              .map(
+                (r, i) =>
+                  `${i + 1}. **${r.title}**\n   ${r.snippet}\n   ${r.url}`,
+              )
+              .join("\n\n") + mockNotice,
         },
       ],
     };
