@@ -1,0 +1,1810 @@
+[
+  {
+    "timestamp": "2026-02-20T20:07:33.429586",
+    "input_data": {
+      "session_id": "f5fec4ab-0ebd-4890-bd02-ce6ad08279c6",
+      "transcript_path": "/Users/talhasheikh/.claude/projects/-Users-talhasheikh-Desktop-dev-hackahton-anthropic/f5fec4ab-0ebd-4890-bd02-ce6ad08279c6.jsonl",
+      "cwd": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+      "model": {
+        "id": "claude-opus-4-6",
+        "display_name": "Opus 4.6"
+      },
+      "workspace": {
+        "current_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+        "project_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic",
+        "added_dirs": []
+      },
+      "version": "2.1.49",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.6633520000000006,
+        "total_duration_ms": 1315785,
+        "total_api_duration_ms": 555695,
+        "total_lines_added": 313,
+        "total_lines_removed": 223
+      },
+      "context_window": {
+        "total_input_tokens": 63685,
+        "total_output_tokens": 17932,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 1,
+          "output_tokens": 114,
+          "cache_creation_input_tokens": 721,
+          "cache_read_input_tokens": 59117
+        },
+        "used_percentage": 30,
+        "remaining_percentage": 70
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Opus 4.6]\u001b[0m | \u001b[34m\ud83d\udcc1 claude-hacknight-starter-20-02-2026\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b123\u001b[0m | \u001b[90mv2.1.49\u001b[0m"
+  },
+  {
+    "timestamp": "2026-02-20T20:07:54.080939",
+    "input_data": {
+      "session_id": "f5fec4ab-0ebd-4890-bd02-ce6ad08279c6",
+      "transcript_path": "/Users/talhasheikh/.claude/projects/-Users-talhasheikh-Desktop-dev-hackahton-anthropic/f5fec4ab-0ebd-4890-bd02-ce6ad08279c6.jsonl",
+      "cwd": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+      "model": {
+        "id": "claude-opus-4-6",
+        "display_name": "Opus 4.6"
+      },
+      "workspace": {
+        "current_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+        "project_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic",
+        "added_dirs": []
+      },
+      "version": "2.1.49",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.6637670000000004,
+        "total_duration_ms": 1336812,
+        "total_api_duration_ms": 556561,
+        "total_lines_added": 313,
+        "total_lines_removed": 223
+      },
+      "context_window": {
+        "total_input_tokens": 63990,
+        "total_output_tokens": 17954,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 3,
+          "output_tokens": 9,
+          "cache_creation_input_tokens": 19,
+          "cache_read_input_tokens": 59950
+        },
+        "used_percentage": 30,
+        "remaining_percentage": 70
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Opus 4.6]\u001b[0m | \u001b[34m\ud83d\udcc1 claude-hacknight-starter-20-02-2026\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b125\u001b[0m | \u001b[90mv2.1.49\u001b[0m"
+  },
+  {
+    "timestamp": "2026-02-20T20:07:59.689894",
+    "input_data": {
+      "session_id": "f5fec4ab-0ebd-4890-bd02-ce6ad08279c6",
+      "transcript_path": "/Users/talhasheikh/.claude/projects/-Users-talhasheikh-Desktop-dev-hackahton-anthropic/f5fec4ab-0ebd-4890-bd02-ce6ad08279c6.jsonl",
+      "cwd": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+      "model": {
+        "id": "claude-opus-4-6",
+        "display_name": "Opus 4.6"
+      },
+      "workspace": {
+        "current_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+        "project_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic",
+        "added_dirs": []
+      },
+      "version": "2.1.49",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.6637670000000004,
+        "total_duration_ms": 1342420,
+        "total_api_duration_ms": 556561,
+        "total_lines_added": 313,
+        "total_lines_removed": 223
+      },
+      "context_window": {
+        "total_input_tokens": 63990,
+        "total_output_tokens": 17954,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 3,
+          "output_tokens": 9,
+          "cache_creation_input_tokens": 19,
+          "cache_read_input_tokens": 59950
+        },
+        "used_percentage": 30,
+        "remaining_percentage": 70
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Opus 4.6]\u001b[0m | \u001b[34m\ud83d\udcc1 claude-hacknight-starter-20-02-2026\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b125\u001b[0m | \u001b[90mv2.1.49\u001b[0m"
+  },
+  {
+    "timestamp": "2026-02-20T20:08:01.706956",
+    "input_data": {
+      "session_id": "f5fec4ab-0ebd-4890-bd02-ce6ad08279c6",
+      "transcript_path": "/Users/talhasheikh/.claude/projects/-Users-talhasheikh-Desktop-dev-hackahton-anthropic/f5fec4ab-0ebd-4890-bd02-ce6ad08279c6.jsonl",
+      "cwd": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+      "model": {
+        "id": "claude-opus-4-6",
+        "display_name": "Opus 4.6"
+      },
+      "workspace": {
+        "current_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+        "project_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic",
+        "added_dirs": []
+      },
+      "version": "2.1.49",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.7022507500000006,
+        "total_duration_ms": 1344439,
+        "total_api_duration_ms": 567218,
+        "total_lines_added": 313,
+        "total_lines_removed": 223
+      },
+      "context_window": {
+        "total_input_tokens": 63993,
+        "total_output_tokens": 18289,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 3,
+          "output_tokens": 335,
+          "cache_creation_input_tokens": 19,
+          "cache_read_input_tokens": 59950
+        },
+        "used_percentage": 30,
+        "remaining_percentage": 70
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Opus 4.6]\u001b[0m | \u001b[34m\ud83d\udcc1 claude-hacknight-starter-20-02-2026\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b125\u001b[0m | \u001b[90mv2.1.49\u001b[0m"
+  },
+  {
+    "timestamp": "2026-02-20T20:08:24.025601",
+    "input_data": {
+      "session_id": "7cf56e78-599b-45f7-9986-0cbfc5151dab",
+      "transcript_path": "/Users/talhasheikh/.claude/projects/-Users-talhasheikh-Desktop-dev-hackahton-anthropic/7cf56e78-599b-45f7-9986-0cbfc5151dab.jsonl",
+      "cwd": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+      "model": {
+        "id": "claude-sonnet-4-6",
+        "display_name": "Sonnet 4.6"
+      },
+      "workspace": {
+        "current_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+        "project_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic",
+        "added_dirs": []
+      },
+      "version": "2.1.49",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.21343474999999995,
+        "total_duration_ms": 155172,
+        "total_api_duration_ms": 51832,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 9532,
+        "total_output_tokens": 2144,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 1,
+          "output_tokens": 120,
+          "cache_creation_input_tokens": 244,
+          "cache_read_input_tokens": 26643
+        },
+        "used_percentage": 13,
+        "remaining_percentage": 87
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.6]\u001b[0m | \u001b[34m\ud83d\udcc1 claude-hacknight-starter-20-02-2026\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b125\u001b[0m | \u001b[90mv2.1.49\u001b[0m"
+  },
+  {
+    "timestamp": "2026-02-20T20:08:28.703169",
+    "input_data": {
+      "session_id": "7cf56e78-599b-45f7-9986-0cbfc5151dab",
+      "transcript_path": "/Users/talhasheikh/.claude/projects/-Users-talhasheikh-Desktop-dev-hackahton-anthropic/7cf56e78-599b-45f7-9986-0cbfc5151dab.jsonl",
+      "cwd": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+      "model": {
+        "id": "claude-sonnet-4-6",
+        "display_name": "Sonnet 4.6"
+      },
+      "workspace": {
+        "current_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+        "project_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic",
+        "added_dirs": []
+      },
+      "version": "2.1.49",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.21398074999999994,
+        "total_duration_ms": 159849,
+        "total_api_duration_ms": 52869,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 9918,
+        "total_output_tokens": 2176,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 1,
+          "output_tokens": 8,
+          "cache_creation_input_tokens": 167,
+          "cache_read_input_tokens": 26887
+        },
+        "used_percentage": 14,
+        "remaining_percentage": 86
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.6]\u001b[0m | \u001b[34m\ud83d\udcc1 claude-hacknight-starter-20-02-2026\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b125\u001b[0m | \u001b[90mv2.1.49\u001b[0m"
+  },
+  {
+    "timestamp": "2026-02-20T20:08:29.513966",
+    "input_data": {
+      "session_id": "7cf56e78-599b-45f7-9986-0cbfc5151dab",
+      "transcript_path": "/Users/talhasheikh/.claude/projects/-Users-talhasheikh-Desktop-dev-hackahton-anthropic/7cf56e78-599b-45f7-9986-0cbfc5151dab.jsonl",
+      "cwd": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+      "model": {
+        "id": "claude-sonnet-4-6",
+        "display_name": "Sonnet 4.6"
+      },
+      "workspace": {
+        "current_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+        "project_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic",
+        "added_dirs": []
+      },
+      "version": "2.1.49",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.21398074999999994,
+        "total_duration_ms": 160659,
+        "total_api_duration_ms": 52869,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 9918,
+        "total_output_tokens": 2176,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 1,
+          "output_tokens": 8,
+          "cache_creation_input_tokens": 167,
+          "cache_read_input_tokens": 26887
+        },
+        "used_percentage": 14,
+        "remaining_percentage": 86
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.6]\u001b[0m | \u001b[34m\ud83d\udcc1 claude-hacknight-starter-20-02-2026\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b125\u001b[0m | \u001b[90mv2.1.49\u001b[0m"
+  },
+  {
+    "timestamp": "2026-02-20T20:08:30.495778",
+    "input_data": {
+      "session_id": "7cf56e78-599b-45f7-9986-0cbfc5151dab",
+      "transcript_path": "/Users/talhasheikh/.claude/projects/-Users-talhasheikh-Desktop-dev-hackahton-anthropic/7cf56e78-599b-45f7-9986-0cbfc5151dab.jsonl",
+      "cwd": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+      "model": {
+        "id": "claude-sonnet-4-6",
+        "display_name": "Sonnet 4.6"
+      },
+      "workspace": {
+        "current_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+        "project_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic",
+        "added_dirs": []
+      },
+      "version": "2.1.49",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.23662299999999994,
+        "total_duration_ms": 161642,
+        "total_api_duration_ms": 58299,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 9919,
+        "total_output_tokens": 2502,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 1,
+          "output_tokens": 326,
+          "cache_creation_input_tokens": 167,
+          "cache_read_input_tokens": 26887
+        },
+        "used_percentage": 14,
+        "remaining_percentage": 86
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.6]\u001b[0m | \u001b[34m\ud83d\udcc1 claude-hacknight-starter-20-02-2026\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b125\u001b[0m | \u001b[90mv2.1.49\u001b[0m"
+  },
+  {
+    "timestamp": "2026-02-20T20:08:35.915203",
+    "input_data": {
+      "session_id": "f5fec4ab-0ebd-4890-bd02-ce6ad08279c6",
+      "transcript_path": "/Users/talhasheikh/.claude/projects/-Users-talhasheikh-Desktop-dev-hackahton-anthropic/f5fec4ab-0ebd-4890-bd02-ce6ad08279c6.jsonl",
+      "cwd": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+      "model": {
+        "id": "claude-opus-4-6",
+        "display_name": "Opus 4.6"
+      },
+      "workspace": {
+        "current_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+        "project_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic",
+        "added_dirs": []
+      },
+      "version": "2.1.49",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.7365185000000003,
+        "total_duration_ms": 1378649,
+        "total_api_duration_ms": 571919,
+        "total_lines_added": 313,
+        "total_lines_removed": 223
+      },
+      "context_window": {
+        "total_input_tokens": 64590,
+        "total_output_tokens": 18322,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 3,
+          "output_tokens": 1,
+          "cache_creation_input_tokens": 16,
+          "cache_read_input_tokens": 60302
+        },
+        "used_percentage": 30,
+        "remaining_percentage": 70
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Opus 4.6]\u001b[0m | \u001b[34m\ud83d\udcc1 claude-hacknight-starter-20-02-2026\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b125\u001b[0m | \u001b[90mv2.1.49\u001b[0m"
+  },
+  {
+    "timestamp": "2026-02-20T20:08:36.563033",
+    "input_data": {
+      "session_id": "f5fec4ab-0ebd-4890-bd02-ce6ad08279c6",
+      "transcript_path": "/Users/talhasheikh/.claude/projects/-Users-talhasheikh-Desktop-dev-hackahton-anthropic/f5fec4ab-0ebd-4890-bd02-ce6ad08279c6.jsonl",
+      "cwd": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+      "model": {
+        "id": "claude-opus-4-6",
+        "display_name": "Opus 4.6"
+      },
+      "workspace": {
+        "current_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+        "project_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic",
+        "added_dirs": []
+      },
+      "version": "2.1.49",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.7365185000000003,
+        "total_duration_ms": 1379288,
+        "total_api_duration_ms": 571919,
+        "total_lines_added": 313,
+        "total_lines_removed": 223
+      },
+      "context_window": {
+        "total_input_tokens": 64590,
+        "total_output_tokens": 18322,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 3,
+          "output_tokens": 1,
+          "cache_creation_input_tokens": 16,
+          "cache_read_input_tokens": 60302
+        },
+        "used_percentage": 30,
+        "remaining_percentage": 70
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Opus 4.6]\u001b[0m | \u001b[34m\ud83d\udcc1 claude-hacknight-starter-20-02-2026\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b125\u001b[0m | \u001b[90mv2.1.49\u001b[0m"
+  },
+  {
+    "timestamp": "2026-02-20T20:08:36.595697",
+    "input_data": {
+      "session_id": "7cf56e78-599b-45f7-9986-0cbfc5151dab",
+      "transcript_path": "/Users/talhasheikh/.claude/projects/-Users-talhasheikh-Desktop-dev-hackahton-anthropic/7cf56e78-599b-45f7-9986-0cbfc5151dab.jsonl",
+      "cwd": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+      "model": {
+        "id": "claude-sonnet-4-6",
+        "display_name": "Sonnet 4.6"
+      },
+      "workspace": {
+        "current_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+        "project_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic",
+        "added_dirs": []
+      },
+      "version": "2.1.49",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.23841099999999996,
+        "total_duration_ms": 167745,
+        "total_api_duration_ms": 59492,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 11637,
+        "total_output_tokens": 2516,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 1,
+          "output_tokens": 326,
+          "cache_creation_input_tokens": 167,
+          "cache_read_input_tokens": 26887
+        },
+        "used_percentage": 14,
+        "remaining_percentage": 86
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.6]\u001b[0m | \u001b[34m\ud83d\udcc1 claude-hacknight-starter-20-02-2026\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b125\u001b[0m | \u001b[90mv2.1.49\u001b[0m"
+  },
+  {
+    "timestamp": "2026-02-20T20:08:36.904471",
+    "input_data": {
+      "session_id": "7cf56e78-599b-45f7-9986-0cbfc5151dab",
+      "transcript_path": "/Users/talhasheikh/.claude/projects/-Users-talhasheikh-Desktop-dev-hackahton-anthropic/7cf56e78-599b-45f7-9986-0cbfc5151dab.jsonl",
+      "cwd": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+      "model": {
+        "id": "claude-sonnet-4-6",
+        "display_name": "Sonnet 4.6"
+      },
+      "workspace": {
+        "current_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+        "project_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic",
+        "added_dirs": []
+      },
+      "version": "2.1.49",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.23841099999999996,
+        "total_duration_ms": 168047,
+        "total_api_duration_ms": 59492,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 11637,
+        "total_output_tokens": 2516,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 1,
+          "output_tokens": 326,
+          "cache_creation_input_tokens": 167,
+          "cache_read_input_tokens": 26887
+        },
+        "used_percentage": 14,
+        "remaining_percentage": 86
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.6]\u001b[0m | \u001b[34m\ud83d\udcc1 claude-hacknight-starter-20-02-2026\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b125\u001b[0m | \u001b[90mv2.1.49\u001b[0m"
+  },
+  {
+    "timestamp": "2026-02-20T20:08:38.977844",
+    "input_data": {
+      "session_id": "f5fec4ab-0ebd-4890-bd02-ce6ad08279c6",
+      "transcript_path": "/Users/talhasheikh/.claude/projects/-Users-talhasheikh-Desktop-dev-hackahton-anthropic/f5fec4ab-0ebd-4890-bd02-ce6ad08279c6.jsonl",
+      "cwd": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+      "model": {
+        "id": "claude-opus-4-6",
+        "display_name": "Opus 4.6"
+      },
+      "workspace": {
+        "current_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+        "project_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic",
+        "added_dirs": []
+      },
+      "version": "2.1.49",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.7715845000000003,
+        "total_duration_ms": 1381711,
+        "total_api_duration_ms": 577753,
+        "total_lines_added": 313,
+        "total_lines_removed": 223
+      },
+      "context_window": {
+        "total_input_tokens": 64593,
+        "total_output_tokens": 18514,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 3,
+          "output_tokens": 192,
+          "cache_creation_input_tokens": 16,
+          "cache_read_input_tokens": 60302
+        },
+        "used_percentage": 30,
+        "remaining_percentage": 70
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Opus 4.6]\u001b[0m | \u001b[34m\ud83d\udcc1 claude-hacknight-starter-20-02-2026\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b125\u001b[0m | \u001b[90mv2.1.49\u001b[0m"
+  },
+  {
+    "timestamp": "2026-02-20T20:08:39.464120",
+    "input_data": {
+      "session_id": "7cf56e78-599b-45f7-9986-0cbfc5151dab",
+      "transcript_path": "/Users/talhasheikh/.claude/projects/-Users-talhasheikh-Desktop-dev-hackahton-anthropic/7cf56e78-599b-45f7-9986-0cbfc5151dab.jsonl",
+      "cwd": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+      "model": {
+        "id": "claude-sonnet-4-6",
+        "display_name": "Sonnet 4.6"
+      },
+      "workspace": {
+        "current_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+        "project_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic",
+        "added_dirs": []
+      },
+      "version": "2.1.49",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.25780549999999997,
+        "total_duration_ms": 170610,
+        "total_api_duration_ms": 61708,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 11638,
+        "total_output_tokens": 2653,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 1,
+          "output_tokens": 137,
+          "cache_creation_input_tokens": 390,
+          "cache_read_input_tokens": 27054
+        },
+        "used_percentage": 14,
+        "remaining_percentage": 86
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.6]\u001b[0m | \u001b[34m\ud83d\udcc1 claude-hacknight-starter-20-02-2026\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b125\u001b[0m | \u001b[90mv2.1.49\u001b[0m"
+  },
+  {
+    "timestamp": "2026-02-20T20:08:42.150336",
+    "input_data": {
+      "session_id": "7cf56e78-599b-45f7-9986-0cbfc5151dab",
+      "transcript_path": "/Users/talhasheikh/.claude/projects/-Users-talhasheikh-Desktop-dev-hackahton-anthropic/7cf56e78-599b-45f7-9986-0cbfc5151dab.jsonl",
+      "cwd": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+      "model": {
+        "id": "claude-sonnet-4-6",
+        "display_name": "Sonnet 4.6"
+      },
+      "workspace": {
+        "current_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+        "project_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic",
+        "added_dirs": []
+      },
+      "version": "2.1.49",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.2596055,
+        "total_duration_ms": 173296,
+        "total_api_duration_ms": 63324,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 13358,
+        "total_output_tokens": 2669,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 1,
+          "output_tokens": 137,
+          "cache_creation_input_tokens": 390,
+          "cache_read_input_tokens": 27054
+        },
+        "used_percentage": 14,
+        "remaining_percentage": 86
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.6]\u001b[0m | \u001b[34m\ud83d\udcc1 claude-hacknight-starter-20-02-2026\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b125\u001b[0m | \u001b[90mv2.1.49\u001b[0m"
+  },
+  {
+    "timestamp": "2026-02-20T20:08:42.452039",
+    "input_data": {
+      "session_id": "7cf56e78-599b-45f7-9986-0cbfc5151dab",
+      "transcript_path": "/Users/talhasheikh/.claude/projects/-Users-talhasheikh-Desktop-dev-hackahton-anthropic/7cf56e78-599b-45f7-9986-0cbfc5151dab.jsonl",
+      "cwd": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+      "model": {
+        "id": "claude-sonnet-4-6",
+        "display_name": "Sonnet 4.6"
+      },
+      "workspace": {
+        "current_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+        "project_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic",
+        "added_dirs": []
+      },
+      "version": "2.1.49",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.2596055,
+        "total_duration_ms": 173599,
+        "total_api_duration_ms": 63324,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 13358,
+        "total_output_tokens": 2669,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 1,
+          "output_tokens": 137,
+          "cache_creation_input_tokens": 390,
+          "cache_read_input_tokens": 27054
+        },
+        "used_percentage": 14,
+        "remaining_percentage": 86
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.6]\u001b[0m | \u001b[34m\ud83d\udcc1 claude-hacknight-starter-20-02-2026\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b125\u001b[0m | \u001b[90mv2.1.49\u001b[0m"
+  },
+  {
+    "timestamp": "2026-02-20T20:08:46.723077",
+    "input_data": {
+      "session_id": "7cf56e78-599b-45f7-9986-0cbfc5151dab",
+      "transcript_path": "/Users/talhasheikh/.claude/projects/-Users-talhasheikh-Desktop-dev-hackahton-anthropic/7cf56e78-599b-45f7-9986-0cbfc5151dab.jsonl",
+      "cwd": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+      "model": {
+        "id": "claude-sonnet-4-6",
+        "display_name": "Sonnet 4.6"
+      },
+      "workspace": {
+        "current_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+        "project_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic",
+        "added_dirs": []
+      },
+      "version": "2.1.49",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.27987625,
+        "total_duration_ms": 177869,
+        "total_api_duration_ms": 67066,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 13359,
+        "total_output_tokens": 2841,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 1,
+          "output_tokens": 172,
+          "cache_creation_input_tokens": 359,
+          "cache_read_input_tokens": 27444
+        },
+        "used_percentage": 14,
+        "remaining_percentage": 86
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.6]\u001b[0m | \u001b[34m\ud83d\udcc1 claude-hacknight-starter-20-02-2026\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b125\u001b[0m | \u001b[90mv2.1.49\u001b[0m"
+  },
+  {
+    "timestamp": "2026-02-20T20:08:58.707354",
+    "input_data": {
+      "session_id": "f5fec4ab-0ebd-4890-bd02-ce6ad08279c6",
+      "transcript_path": "/Users/talhasheikh/.claude/projects/-Users-talhasheikh-Desktop-dev-hackahton-anthropic/f5fec4ab-0ebd-4890-bd02-ce6ad08279c6.jsonl",
+      "cwd": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+      "model": {
+        "id": "claude-opus-4-6",
+        "display_name": "Opus 4.6"
+      },
+      "workspace": {
+        "current_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+        "project_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic",
+        "added_dirs": []
+      },
+      "version": "2.1.49",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.8372975000000005,
+        "total_duration_ms": 1401438,
+        "total_api_duration_ms": 585616,
+        "total_lines_added": 313,
+        "total_lines_removed": 223
+      },
+      "context_window": {
+        "total_input_tokens": 65185,
+        "total_output_tokens": 18619,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 3,
+          "output_tokens": 75,
+          "cache_creation_input_tokens": 8,
+          "cache_read_input_tokens": 60510
+        },
+        "used_percentage": 30,
+        "remaining_percentage": 70
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Opus 4.6]\u001b[0m | \u001b[34m\ud83d\udcc1 claude-hacknight-starter-20-02-2026\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b125\u001b[0m | \u001b[90mv2.1.49\u001b[0m"
+  },
+  {
+    "timestamp": "2026-02-20T20:08:59.005730",
+    "input_data": {
+      "session_id": "f5fec4ab-0ebd-4890-bd02-ce6ad08279c6",
+      "transcript_path": "/Users/talhasheikh/.claude/projects/-Users-talhasheikh-Desktop-dev-hackahton-anthropic/f5fec4ab-0ebd-4890-bd02-ce6ad08279c6.jsonl",
+      "cwd": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+      "model": {
+        "id": "claude-opus-4-6",
+        "display_name": "Opus 4.6"
+      },
+      "workspace": {
+        "current_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+        "project_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic",
+        "added_dirs": []
+      },
+      "version": "2.1.49",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.8372975000000005,
+        "total_duration_ms": 1401738,
+        "total_api_duration_ms": 585616,
+        "total_lines_added": 313,
+        "total_lines_removed": 223
+      },
+      "context_window": {
+        "total_input_tokens": 65185,
+        "total_output_tokens": 18619,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 3,
+          "output_tokens": 75,
+          "cache_creation_input_tokens": 8,
+          "cache_read_input_tokens": 60510
+        },
+        "used_percentage": 30,
+        "remaining_percentage": 70
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Opus 4.6]\u001b[0m | \u001b[34m\ud83d\udcc1 claude-hacknight-starter-20-02-2026\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b125\u001b[0m | \u001b[90mv2.1.49\u001b[0m"
+  },
+  {
+    "timestamp": "2026-02-20T20:09:04.071741",
+    "input_data": {
+      "session_id": "f5fec4ab-0ebd-4890-bd02-ce6ad08279c6",
+      "transcript_path": "/Users/talhasheikh/.claude/projects/-Users-talhasheikh-Desktop-dev-hackahton-anthropic/f5fec4ab-0ebd-4890-bd02-ce6ad08279c6.jsonl",
+      "cwd": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+      "model": {
+        "id": "claude-opus-4-6",
+        "display_name": "Opus 4.6"
+      },
+      "workspace": {
+        "current_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+        "project_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic",
+        "added_dirs": []
+      },
+      "version": "2.1.49",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.8757677500000005,
+        "total_duration_ms": 1406796,
+        "total_api_duration_ms": 590393,
+        "total_lines_added": 316,
+        "total_lines_removed": 223
+      },
+      "context_window": {
+        "total_input_tokens": 65186,
+        "total_output_tokens": 18892,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 1,
+          "output_tokens": 273,
+          "cache_creation_input_tokens": 221,
+          "cache_read_input_tokens": 60518
+        },
+        "used_percentage": 30,
+        "remaining_percentage": 70
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Opus 4.6]\u001b[0m | \u001b[34m\ud83d\udcc1 claude-hacknight-starter-20-02-2026\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b125\u001b[0m | \u001b[90mv2.1.49\u001b[0m"
+  },
+  {
+    "timestamp": "2026-02-20T20:09:07.140480",
+    "input_data": {
+      "session_id": "f5fec4ab-0ebd-4890-bd02-ce6ad08279c6",
+      "transcript_path": "/Users/talhasheikh/.claude/projects/-Users-talhasheikh-Desktop-dev-hackahton-anthropic/f5fec4ab-0ebd-4890-bd02-ce6ad08279c6.jsonl",
+      "cwd": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+      "model": {
+        "id": "claude-opus-4-6",
+        "display_name": "Opus 4.6"
+      },
+      "workspace": {
+        "current_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+        "project_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic",
+        "added_dirs": []
+      },
+      "version": "2.1.49",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.9088985000000007,
+        "total_duration_ms": 1409873,
+        "total_api_duration_ms": 593563,
+        "total_lines_added": 316,
+        "total_lines_removed": 223
+      },
+      "context_window": {
+        "total_input_tokens": 65187,
+        "total_output_tokens": 18924,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 1,
+          "output_tokens": 32,
+          "cache_creation_input_tokens": 313,
+          "cache_read_input_tokens": 60739
+        },
+        "used_percentage": 31,
+        "remaining_percentage": 69
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Opus 4.6]\u001b[0m | \u001b[34m\ud83d\udcc1 claude-hacknight-starter-20-02-2026\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b125\u001b[0m | \u001b[90mv2.1.49\u001b[0m"
+  },
+  {
+    "timestamp": "2026-02-20T20:10:55.648235",
+    "input_data": {
+      "session_id": "f5fec4ab-0ebd-4890-bd02-ce6ad08279c6",
+      "transcript_path": "/Users/talhasheikh/.claude/projects/-Users-talhasheikh-Desktop-dev-hackahton-anthropic/f5fec4ab-0ebd-4890-bd02-ce6ad08279c6.jsonl",
+      "cwd": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+      "model": {
+        "id": "claude-opus-4-6",
+        "display_name": "Opus 4.6"
+      },
+      "workspace": {
+        "current_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+        "project_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic",
+        "added_dirs": []
+      },
+      "version": "2.1.49",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 2.9786022500000007,
+        "total_duration_ms": 1518381,
+        "total_api_duration_ms": 604852,
+        "total_lines_added": 316,
+        "total_lines_removed": 229
+      },
+      "context_window": {
+        "total_input_tokens": 65788,
+        "total_output_tokens": 19202,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 3,
+          "output_tokens": 243,
+          "cache_creation_input_tokens": 17,
+          "cache_read_input_tokens": 61082
+        },
+        "used_percentage": 31,
+        "remaining_percentage": 69
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Opus 4.6]\u001b[0m | \u001b[34m\ud83d\udcc1 claude-hacknight-starter-20-02-2026\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b125\u001b[0m | \u001b[90mv2.1.49\u001b[0m"
+  },
+  {
+    "timestamp": "2026-02-20T20:10:59.201202",
+    "input_data": {
+      "session_id": "f5fec4ab-0ebd-4890-bd02-ce6ad08279c6",
+      "transcript_path": "/Users/talhasheikh/.claude/projects/-Users-talhasheikh-Desktop-dev-hackahton-anthropic/f5fec4ab-0ebd-4890-bd02-ce6ad08279c6.jsonl",
+      "cwd": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+      "model": {
+        "id": "claude-opus-4-6",
+        "display_name": "Opus 4.6"
+      },
+      "workspace": {
+        "current_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+        "project_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic",
+        "added_dirs": []
+      },
+      "version": "2.1.49",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 3.0112130000000006,
+        "total_duration_ms": 1521932,
+        "total_api_duration_ms": 608531,
+        "total_lines_added": 316,
+        "total_lines_removed": 229
+      },
+      "context_window": {
+        "total_input_tokens": 65789,
+        "total_output_tokens": 19213,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 1,
+          "output_tokens": 11,
+          "cache_creation_input_tokens": 285,
+          "cache_read_input_tokens": 61099
+        },
+        "used_percentage": 31,
+        "remaining_percentage": 69
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Opus 4.6]\u001b[0m | \u001b[34m\ud83d\udcc1 claude-hacknight-starter-20-02-2026\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b125\u001b[0m | \u001b[90mv2.1.49\u001b[0m"
+  },
+  {
+    "timestamp": "2026-02-20T20:11:19.356240",
+    "input_data": {
+      "session_id": "f5fec4ab-0ebd-4890-bd02-ce6ad08279c6",
+      "transcript_path": "/Users/talhasheikh/.claude/projects/-Users-talhasheikh-Desktop-dev-hackahton-anthropic/f5fec4ab-0ebd-4890-bd02-ce6ad08279c6.jsonl",
+      "cwd": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+      "model": {
+        "id": "claude-opus-4-6",
+        "display_name": "Opus 4.6"
+      },
+      "workspace": {
+        "current_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+        "project_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic",
+        "added_dirs": []
+      },
+      "version": "2.1.49",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 3.0774792500000006,
+        "total_duration_ms": 1542089,
+        "total_api_duration_ms": 619778,
+        "total_lines_added": 316,
+        "total_lines_removed": 229
+      },
+      "context_window": {
+        "total_input_tokens": 66381,
+        "total_output_tokens": 19317,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 3,
+          "output_tokens": 75,
+          "cache_creation_input_tokens": 118,
+          "cache_read_input_tokens": 61393
+        },
+        "used_percentage": 31,
+        "remaining_percentage": 69
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Opus 4.6]\u001b[0m | \u001b[34m\ud83d\udcc1 claude-hacknight-starter-20-02-2026\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b125\u001b[0m | \u001b[32m\u25c8 62K/200K (31%)\u001b[0m | \u001b[90mv2.1.49\u001b[0m"
+  },
+  {
+    "timestamp": "2026-02-20T20:11:23.269133",
+    "input_data": {
+      "session_id": "f5fec4ab-0ebd-4890-bd02-ce6ad08279c6",
+      "transcript_path": "/Users/talhasheikh/.claude/projects/-Users-talhasheikh-Desktop-dev-hackahton-anthropic/f5fec4ab-0ebd-4890-bd02-ce6ad08279c6.jsonl",
+      "cwd": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+      "model": {
+        "id": "claude-opus-4-6",
+        "display_name": "Opus 4.6"
+      },
+      "workspace": {
+        "current_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+        "project_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic",
+        "added_dirs": []
+      },
+      "version": "2.1.49",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 3.0774792500000006,
+        "total_duration_ms": 1545998,
+        "total_api_duration_ms": 619778,
+        "total_lines_added": 316,
+        "total_lines_removed": 229
+      },
+      "context_window": {
+        "total_input_tokens": 66381,
+        "total_output_tokens": 19317,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 1,
+          "output_tokens": 1,
+          "cache_creation_input_tokens": 181,
+          "cache_read_input_tokens": 61511
+        },
+        "used_percentage": 31,
+        "remaining_percentage": 69
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Opus 4.6]\u001b[0m | \u001b[34m\ud83d\udcc1 claude-hacknight-starter-20-02-2026\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b125\u001b[0m | \u001b[32m\u25c8 62K/200K (31%)\u001b[0m | \u001b[90mv2.1.49\u001b[0m"
+  },
+  {
+    "timestamp": "2026-02-20T20:11:24.307157",
+    "input_data": {
+      "session_id": "f5fec4ab-0ebd-4890-bd02-ce6ad08279c6",
+      "transcript_path": "/Users/talhasheikh/.claude/projects/-Users-talhasheikh-Desktop-dev-hackahton-anthropic/f5fec4ab-0ebd-4890-bd02-ce6ad08279c6.jsonl",
+      "cwd": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+      "model": {
+        "id": "claude-opus-4-6",
+        "display_name": "Opus 4.6"
+      },
+      "workspace": {
+        "current_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+        "project_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic",
+        "added_dirs": []
+      },
+      "version": "2.1.49",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 3.1128460000000007,
+        "total_duration_ms": 1547037,
+        "total_api_duration_ms": 624400,
+        "total_lines_added": 316,
+        "total_lines_removed": 229
+      },
+      "context_window": {
+        "total_input_tokens": 66382,
+        "total_output_tokens": 19456,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 1,
+          "output_tokens": 139,
+          "cache_creation_input_tokens": 181,
+          "cache_read_input_tokens": 61511
+        },
+        "used_percentage": 31,
+        "remaining_percentage": 69
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Opus 4.6]\u001b[0m | \u001b[34m\ud83d\udcc1 claude-hacknight-starter-20-02-2026\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b125\u001b[0m | \u001b[32m\u25c8 62K/200K (31%)\u001b[0m | \u001b[90mv2.1.49\u001b[0m"
+  },
+  {
+    "timestamp": "2026-02-20T20:11:29.164249",
+    "input_data": {
+      "session_id": "f5fec4ab-0ebd-4890-bd02-ce6ad08279c6",
+      "transcript_path": "/Users/talhasheikh/.claude/projects/-Users-talhasheikh-Desktop-dev-hackahton-anthropic/f5fec4ab-0ebd-4890-bd02-ce6ad08279c6.jsonl",
+      "cwd": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+      "model": {
+        "id": "claude-opus-4-6",
+        "display_name": "Opus 4.6"
+      },
+      "workspace": {
+        "current_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+        "project_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic",
+        "added_dirs": []
+      },
+      "version": "2.1.49",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 3.113343000000001,
+        "total_duration_ms": 1551897,
+        "total_api_duration_ms": 625089,
+        "total_lines_added": 316,
+        "total_lines_removed": 229
+      },
+      "context_window": {
+        "total_input_tokens": 66719,
+        "total_output_tokens": 19488,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 1,
+          "output_tokens": 1,
+          "cache_creation_input_tokens": 152,
+          "cache_read_input_tokens": 61692
+        },
+        "used_percentage": 31,
+        "remaining_percentage": 69
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Opus 4.6]\u001b[0m | \u001b[34m\ud83d\udcc1 claude-hacknight-starter-20-02-2026\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b125\u001b[0m | \u001b[32m\u25c8 62K/200K (31%)\u001b[0m | \u001b[90mv2.1.49\u001b[0m"
+  },
+  {
+    "timestamp": "2026-02-20T20:11:30.174988",
+    "input_data": {
+      "session_id": "f5fec4ab-0ebd-4890-bd02-ce6ad08279c6",
+      "transcript_path": "/Users/talhasheikh/.claude/projects/-Users-talhasheikh-Desktop-dev-hackahton-anthropic/f5fec4ab-0ebd-4890-bd02-ce6ad08279c6.jsonl",
+      "cwd": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+      "model": {
+        "id": "claude-opus-4-6",
+        "display_name": "Opus 4.6"
+      },
+      "workspace": {
+        "current_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+        "project_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic",
+        "added_dirs": []
+      },
+      "version": "2.1.49",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 3.149719000000001,
+        "total_duration_ms": 1552903,
+        "total_api_duration_ms": 630847,
+        "total_lines_added": 318,
+        "total_lines_removed": 235
+      },
+      "context_window": {
+        "total_input_tokens": 66720,
+        "total_output_tokens": 19671,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 1,
+          "output_tokens": 183,
+          "cache_creation_input_tokens": 152,
+          "cache_read_input_tokens": 61692
+        },
+        "used_percentage": 31,
+        "remaining_percentage": 69
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Opus 4.6]\u001b[0m | \u001b[34m\ud83d\udcc1 claude-hacknight-starter-20-02-2026\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b125\u001b[0m | \u001b[32m\u25c8 62K/200K (31%)\u001b[0m | \u001b[90mv2.1.49\u001b[0m"
+  },
+  {
+    "timestamp": "2026-02-20T20:11:38.293960",
+    "input_data": {
+      "session_id": "f5fec4ab-0ebd-4890-bd02-ce6ad08279c6",
+      "transcript_path": "/Users/talhasheikh/.claude/projects/-Users-talhasheikh-Desktop-dev-hackahton-anthropic/f5fec4ab-0ebd-4890-bd02-ce6ad08279c6.jsonl",
+      "cwd": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+      "model": {
+        "id": "claude-opus-4-6",
+        "display_name": "Opus 4.6"
+      },
+      "workspace": {
+        "current_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+        "project_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic",
+        "added_dirs": []
+      },
+      "version": "2.1.49",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 3.184189750000001,
+        "total_duration_ms": 1561016,
+        "total_api_duration_ms": 639035,
+        "total_lines_added": 318,
+        "total_lines_removed": 235
+      },
+      "context_window": {
+        "total_input_tokens": 66721,
+        "total_output_tokens": 19757,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 1,
+          "output_tokens": 86,
+          "cache_creation_input_tokens": 223,
+          "cache_read_input_tokens": 61844
+        },
+        "used_percentage": 31,
+        "remaining_percentage": 69
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Opus 4.6]\u001b[0m | \u001b[34m\ud83d\udcc1 claude-hacknight-starter-20-02-2026\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b125\u001b[0m | \u001b[32m\u25c8 62K/200K (31%)\u001b[0m | \u001b[90mv2.1.49\u001b[0m"
+  },
+  {
+    "timestamp": "2026-02-20T20:12:20.677176",
+    "input_data": {
+      "session_id": "7cf56e78-599b-45f7-9986-0cbfc5151dab",
+      "transcript_path": "/Users/talhasheikh/.claude/projects/-Users-talhasheikh-Desktop-dev-hackahton-anthropic/7cf56e78-599b-45f7-9986-0cbfc5151dab.jsonl",
+      "cwd": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+      "model": {
+        "id": "claude-sonnet-4-6",
+        "display_name": "Sonnet 4.6"
+      },
+      "workspace": {
+        "current_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+        "project_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic",
+        "added_dirs": []
+      },
+      "version": "2.1.49",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.29712225,
+        "total_duration_ms": 391800,
+        "total_api_duration_ms": 71517,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 13966,
+        "total_output_tokens": 2876,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 3,
+          "output_tokens": 0,
+          "cache_creation_input_tokens": 136,
+          "cache_read_input_tokens": 27973
+        },
+        "used_percentage": 14,
+        "remaining_percentage": 86
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.6]\u001b[0m | \u001b[34m\ud83d\udcc1 claude-hacknight-starter-20-02-2026\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b125\u001b[0m | \u001b[32m\u25c8 28K/200K (14%)\u001b[0m | \u001b[90mv2.1.49\u001b[0m"
+  },
+  {
+    "timestamp": "2026-02-20T20:12:21.551263",
+    "input_data": {
+      "session_id": "7cf56e78-599b-45f7-9986-0cbfc5151dab",
+      "transcript_path": "/Users/talhasheikh/.claude/projects/-Users-talhasheikh-Desktop-dev-hackahton-anthropic/7cf56e78-599b-45f7-9986-0cbfc5151dab.jsonl",
+      "cwd": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+      "model": {
+        "id": "claude-sonnet-4-6",
+        "display_name": "Sonnet 4.6"
+      },
+      "workspace": {
+        "current_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+        "project_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic",
+        "added_dirs": []
+      },
+      "version": "2.1.49",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.29712225,
+        "total_duration_ms": 392703,
+        "total_api_duration_ms": 71517,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 13966,
+        "total_output_tokens": 2876,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 3,
+          "output_tokens": 0,
+          "cache_creation_input_tokens": 136,
+          "cache_read_input_tokens": 27973
+        },
+        "used_percentage": 14,
+        "remaining_percentage": 86
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.6]\u001b[0m | \u001b[34m\ud83d\udcc1 claude-hacknight-starter-20-02-2026\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b125\u001b[0m | \u001b[32m\u25c8 28K/200K (14%)\u001b[0m | \u001b[90mv2.1.49\u001b[0m"
+  },
+  {
+    "timestamp": "2026-02-20T20:12:22.035609",
+    "input_data": {
+      "session_id": "7cf56e78-599b-45f7-9986-0cbfc5151dab",
+      "transcript_path": "/Users/talhasheikh/.claude/projects/-Users-talhasheikh-Desktop-dev-hackahton-anthropic/7cf56e78-599b-45f7-9986-0cbfc5151dab.jsonl",
+      "cwd": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+      "model": {
+        "id": "claude-sonnet-4-6",
+        "display_name": "Sonnet 4.6"
+      },
+      "workspace": {
+        "current_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+        "project_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic",
+        "added_dirs": []
+      },
+      "version": "2.1.49",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.32017375,
+        "total_duration_ms": 393177,
+        "total_api_duration_ms": 77452,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 13969,
+        "total_output_tokens": 3204,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 3,
+          "output_tokens": 328,
+          "cache_creation_input_tokens": 136,
+          "cache_read_input_tokens": 27973
+        },
+        "used_percentage": 14,
+        "remaining_percentage": 86
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.6]\u001b[0m | \u001b[34m\ud83d\udcc1 claude-hacknight-starter-20-02-2026\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b125\u001b[0m | \u001b[32m\u25c8 28K/200K (14%)\u001b[0m | \u001b[90mv2.1.49\u001b[0m"
+  },
+  {
+    "timestamp": "2026-02-20T20:12:25.663825",
+    "input_data": {
+      "session_id": "7cf56e78-599b-45f7-9986-0cbfc5151dab",
+      "transcript_path": "/Users/talhasheikh/.claude/projects/-Users-talhasheikh-Desktop-dev-hackahton-anthropic/7cf56e78-599b-45f7-9986-0cbfc5151dab.jsonl",
+      "cwd": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+      "model": {
+        "id": "claude-sonnet-4-6",
+        "display_name": "Sonnet 4.6"
+      },
+      "workspace": {
+        "current_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+        "project_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic",
+        "added_dirs": []
+      },
+      "version": "2.1.49",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.32299375,
+        "total_duration_ms": 396807,
+        "total_api_duration_ms": 81520,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 16574,
+        "total_output_tokens": 3247,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 3,
+          "output_tokens": 328,
+          "cache_creation_input_tokens": 136,
+          "cache_read_input_tokens": 27973
+        },
+        "used_percentage": 14,
+        "remaining_percentage": 86
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.6]\u001b[0m | \u001b[34m\ud83d\udcc1 claude-hacknight-starter-20-02-2026\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b125\u001b[0m | \u001b[32m\u25c8 28K/200K (14%)\u001b[0m | \u001b[90mv2.1.49\u001b[0m"
+  },
+  {
+    "timestamp": "2026-02-20T20:12:25.971310",
+    "input_data": {
+      "session_id": "7cf56e78-599b-45f7-9986-0cbfc5151dab",
+      "transcript_path": "/Users/talhasheikh/.claude/projects/-Users-talhasheikh-Desktop-dev-hackahton-anthropic/7cf56e78-599b-45f7-9986-0cbfc5151dab.jsonl",
+      "cwd": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+      "model": {
+        "id": "claude-sonnet-4-6",
+        "display_name": "Sonnet 4.6"
+      },
+      "workspace": {
+        "current_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+        "project_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic",
+        "added_dirs": []
+      },
+      "version": "2.1.49",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.32299375,
+        "total_duration_ms": 397107,
+        "total_api_duration_ms": 81520,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 16574,
+        "total_output_tokens": 3247,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 3,
+          "output_tokens": 328,
+          "cache_creation_input_tokens": 136,
+          "cache_read_input_tokens": 27973
+        },
+        "used_percentage": 14,
+        "remaining_percentage": 86
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.6]\u001b[0m | \u001b[34m\ud83d\udcc1 claude-hacknight-starter-20-02-2026\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b125\u001b[0m | \u001b[32m\u25c8 28K/200K (14%)\u001b[0m | \u001b[90mv2.1.49\u001b[0m"
+  },
+  {
+    "timestamp": "2026-02-20T20:12:41.336797",
+    "input_data": {
+      "session_id": "7cf56e78-599b-45f7-9986-0cbfc5151dab",
+      "transcript_path": "/Users/talhasheikh/.claude/projects/-Users-talhasheikh-Desktop-dev-hackahton-anthropic/7cf56e78-599b-45f7-9986-0cbfc5151dab.jsonl",
+      "cwd": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+      "model": {
+        "id": "claude-sonnet-4-6",
+        "display_name": "Sonnet 4.6"
+      },
+      "workspace": {
+        "current_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+        "project_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic",
+        "added_dirs": []
+      },
+      "version": "2.1.49",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.36132200000000003,
+        "total_duration_ms": 412462,
+        "total_api_duration_ms": 96723,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 16575,
+        "total_output_tokens": 3982,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 1,
+          "output_tokens": 735,
+          "cache_creation_input_tokens": 943,
+          "cache_read_input_tokens": 28109
+        },
+        "used_percentage": 15,
+        "remaining_percentage": 85
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.6]\u001b[0m | \u001b[34m\ud83d\udcc1 claude-hacknight-starter-20-02-2026\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b125\u001b[0m | \u001b[32m\u25c8 29K/200K (15%)\u001b[0m | \u001b[90mv2.1.49\u001b[0m"
+  },
+  {
+    "timestamp": "2026-02-20T20:12:53.537939",
+    "input_data": {
+      "session_id": "7cf56e78-599b-45f7-9986-0cbfc5151dab",
+      "transcript_path": "/Users/talhasheikh/.claude/projects/-Users-talhasheikh-Desktop-dev-hackahton-anthropic/7cf56e78-599b-45f7-9986-0cbfc5151dab.jsonl",
+      "cwd": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+      "model": {
+        "id": "claude-sonnet-4-6",
+        "display_name": "Sonnet 4.6"
+      },
+      "workspace": {
+        "current_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+        "project_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic",
+        "added_dirs": []
+      },
+      "version": "2.1.49",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.363976,
+        "total_duration_ms": 424681,
+        "total_api_duration_ms": 101753,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 19149,
+        "total_output_tokens": 3998,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 1,
+          "output_tokens": 735,
+          "cache_creation_input_tokens": 943,
+          "cache_read_input_tokens": 28109
+        },
+        "used_percentage": 15,
+        "remaining_percentage": 85
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.6]\u001b[0m | \u001b[34m\ud83d\udcc1 claude-hacknight-starter-20-02-2026\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b125\u001b[0m | \u001b[32m\u25c8 29K/200K (15%)\u001b[0m | \u001b[90mv2.1.49\u001b[0m"
+  },
+  {
+    "timestamp": "2026-02-20T20:12:53.835655",
+    "input_data": {
+      "session_id": "7cf56e78-599b-45f7-9986-0cbfc5151dab",
+      "transcript_path": "/Users/talhasheikh/.claude/projects/-Users-talhasheikh-Desktop-dev-hackahton-anthropic/7cf56e78-599b-45f7-9986-0cbfc5151dab.jsonl",
+      "cwd": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+      "model": {
+        "id": "claude-sonnet-4-6",
+        "display_name": "Sonnet 4.6"
+      },
+      "workspace": {
+        "current_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+        "project_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic",
+        "added_dirs": []
+      },
+      "version": "2.1.49",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.363976,
+        "total_duration_ms": 424981,
+        "total_api_duration_ms": 101753,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 19149,
+        "total_output_tokens": 3998,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 1,
+          "output_tokens": 735,
+          "cache_creation_input_tokens": 943,
+          "cache_read_input_tokens": 28109
+        },
+        "used_percentage": 15,
+        "remaining_percentage": 85
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.6]\u001b[0m | \u001b[34m\ud83d\udcc1 claude-hacknight-starter-20-02-2026\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b125\u001b[0m | \u001b[32m\u25c8 29K/200K (15%)\u001b[0m | \u001b[90mv2.1.49\u001b[0m"
+  },
+  {
+    "timestamp": "2026-02-20T20:12:58.398996",
+    "input_data": {
+      "session_id": "7cf56e78-599b-45f7-9986-0cbfc5151dab",
+      "transcript_path": "/Users/talhasheikh/.claude/projects/-Users-talhasheikh-Desktop-dev-hackahton-anthropic/7cf56e78-599b-45f7-9986-0cbfc5151dab.jsonl",
+      "cwd": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+      "model": {
+        "id": "claude-sonnet-4-6",
+        "display_name": "Sonnet 4.6"
+      },
+      "workspace": {
+        "current_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+        "project_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic",
+        "added_dirs": []
+      },
+      "version": "2.1.49",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.3662410000000001,
+        "total_duration_ms": 429539,
+        "total_api_duration_ms": 104633,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 21214,
+        "total_output_tokens": 4038,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 1,
+          "output_tokens": 735,
+          "cache_creation_input_tokens": 943,
+          "cache_read_input_tokens": 28109
+        },
+        "used_percentage": 15,
+        "remaining_percentage": 85
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.6]\u001b[0m | \u001b[34m\ud83d\udcc1 claude-hacknight-starter-20-02-2026\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b125\u001b[0m | \u001b[32m\u25c8 29K/200K (15%)\u001b[0m | \u001b[90mv2.1.49\u001b[0m"
+  },
+  {
+    "timestamp": "2026-02-20T20:12:58.697226",
+    "input_data": {
+      "session_id": "7cf56e78-599b-45f7-9986-0cbfc5151dab",
+      "transcript_path": "/Users/talhasheikh/.claude/projects/-Users-talhasheikh-Desktop-dev-hackahton-anthropic/7cf56e78-599b-45f7-9986-0cbfc5151dab.jsonl",
+      "cwd": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+      "model": {
+        "id": "claude-sonnet-4-6",
+        "display_name": "Sonnet 4.6"
+      },
+      "workspace": {
+        "current_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+        "project_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic",
+        "added_dirs": []
+      },
+      "version": "2.1.49",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.3662410000000001,
+        "total_duration_ms": 429842,
+        "total_api_duration_ms": 104633,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 21214,
+        "total_output_tokens": 4038,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 1,
+          "output_tokens": 735,
+          "cache_creation_input_tokens": 943,
+          "cache_read_input_tokens": 28109
+        },
+        "used_percentage": 15,
+        "remaining_percentage": 85
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.6]\u001b[0m | \u001b[34m\ud83d\udcc1 claude-hacknight-starter-20-02-2026\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b125\u001b[0m | \u001b[32m\u25c8 29K/200K (15%)\u001b[0m | \u001b[90mv2.1.49\u001b[0m"
+  },
+  {
+    "timestamp": "2026-02-20T20:13:39.324925",
+    "input_data": {
+      "session_id": "7cf56e78-599b-45f7-9986-0cbfc5151dab",
+      "transcript_path": "/Users/talhasheikh/.claude/projects/-Users-talhasheikh-Desktop-dev-hackahton-anthropic/7cf56e78-599b-45f7-9986-0cbfc5151dab.jsonl",
+      "cwd": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+      "model": {
+        "id": "claude-sonnet-4-6",
+        "display_name": "Sonnet 4.6"
+      },
+      "workspace": {
+        "current_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+        "project_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic",
+        "added_dirs": []
+      },
+      "version": "2.1.49",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.36714700000000006,
+        "total_duration_ms": 470464,
+        "total_api_duration_ms": 106868,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 21855,
+        "total_output_tokens": 4091,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 3,
+          "output_tokens": 8,
+          "cache_creation_input_tokens": 20,
+          "cache_read_input_tokens": 29871
+        },
+        "used_percentage": 15,
+        "remaining_percentage": 85
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.6]\u001b[0m | \u001b[34m\ud83d\udcc1 claude-hacknight-starter-20-02-2026\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b125\u001b[0m | \u001b[32m\u25c8 30K/200K (15%)\u001b[0m | \u001b[90mv2.1.49\u001b[0m"
+  },
+  {
+    "timestamp": "2026-02-20T20:13:49.124410",
+    "input_data": {
+      "session_id": "7cf56e78-599b-45f7-9986-0cbfc5151dab",
+      "transcript_path": "/Users/talhasheikh/.claude/projects/-Users-talhasheikh-Desktop-dev-hackahton-anthropic/7cf56e78-599b-45f7-9986-0cbfc5151dab.jsonl",
+      "cwd": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+      "model": {
+        "id": "claude-sonnet-4-6",
+        "display_name": "Sonnet 4.6"
+      },
+      "workspace": {
+        "current_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+        "project_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic",
+        "added_dirs": []
+      },
+      "version": "2.1.49",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.39807250000000005,
+        "total_duration_ms": 480265,
+        "total_api_duration_ms": 120062,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 21858,
+        "total_output_tokens": 4725,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 3,
+          "output_tokens": 634,
+          "cache_creation_input_tokens": 20,
+          "cache_read_input_tokens": 29871
+        },
+        "used_percentage": 15,
+        "remaining_percentage": 85
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.6]\u001b[0m | \u001b[34m\ud83d\udcc1 claude-hacknight-starter-20-02-2026\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b125\u001b[0m | \u001b[32m\u25c8 30K/200K (15%)\u001b[0m | \u001b[90mv2.1.49\u001b[0m"
+  },
+  {
+    "timestamp": "2026-02-20T20:13:54.599490",
+    "input_data": {
+      "session_id": "7cf56e78-599b-45f7-9986-0cbfc5151dab",
+      "transcript_path": "/Users/talhasheikh/.claude/projects/-Users-talhasheikh-Desktop-dev-hackahton-anthropic/7cf56e78-599b-45f7-9986-0cbfc5151dab.jsonl",
+      "cwd": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+      "model": {
+        "id": "claude-sonnet-4-6",
+        "display_name": "Sonnet 4.6"
+      },
+      "workspace": {
+        "current_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026",
+        "project_dir": "/Users/talhasheikh/Desktop/dev/hackahton_anthropic",
+        "added_dirs": [
+          "/Users/talhasheikh/Desktop/dev/hackahton_anthropic/claude-hacknight-starter-20-02-2026"
+        ]
+      },
+      "version": "2.1.49",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.4306562500000001,
+        "total_duration_ms": 485743,
+        "total_api_duration_ms": 123756,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 21861,
+        "total_output_tokens": 4879,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 3,
+          "output_tokens": 634,
+          "cache_creation_input_tokens": 20,
+          "cache_read_input_tokens": 29871
+        },
+        "used_percentage": 15,
+        "remaining_percentage": 85
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.6]\u001b[0m | \u001b[34m\ud83d\udcc1 claude-hacknight-starter-20-02-2026\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b125\u001b[0m | \u001b[32m\u25c8 30K/200K (15%)\u001b[0m | \u001b[90mv2.1.49\u001b[0m"
+  }
+]
