@@ -5,14 +5,14 @@ const skeletonItems = Array.from({ length: 4 });
 export default function FindCompanyNewsWidget() {
   const tool = useToolInfo<"find_company_news">();
 
-  if (tool.isIdle) return null;
-
-  if (tool.isPending) {
+  if (tool.isIdle || tool.isPending) {
+    const label =
+      tool.isPending
+        ? <>Finding news for <strong>{tool.input.company}</strong>...</>
+        : "Loading...";
     return (
       <div style={{ fontFamily: "system-ui, sans-serif", padding: 16 }}>
-        <p style={{ color: "#666", marginBottom: 14, fontSize: 14 }}>
-          Finding news for <strong>{tool.input.company}</strong>...
-        </p>
+        <p style={{ color: "#ccc", marginBottom: 14, fontSize: 14 }}>{label}</p>
         <div style={{ position: "relative", paddingLeft: 20 }}>
           {skeletonItems.map((_, i) => (
             <div
@@ -21,7 +21,7 @@ export default function FindCompanyNewsWidget() {
                 position: "relative",
                 paddingBottom: 18,
                 paddingLeft: 16,
-                borderLeft: "2px solid #e2e8f0",
+                borderLeft: "2px solid rgba(255,255,255,0.1)",
               }}
             >
               <div
@@ -32,7 +32,7 @@ export default function FindCompanyNewsWidget() {
                   width: 10,
                   height: 10,
                   borderRadius: "50%",
-                  background: "#e2e8f0",
+                  background: "rgba(255,255,255,0.1)",
                   animation: "pulse 1.5s ease-in-out infinite",
                 }}
               />
@@ -40,7 +40,7 @@ export default function FindCompanyNewsWidget() {
                 style={{
                   height: 12,
                   width: `${60 + i * 5}%`,
-                  background: "#e2e8f0",
+                  background: "rgba(255,255,255,0.1)",
                   borderRadius: 4,
                   marginBottom: 6,
                   animation: "pulse 1.5s ease-in-out infinite",
@@ -50,7 +50,7 @@ export default function FindCompanyNewsWidget() {
                 style={{
                   height: 10,
                   width: "30%",
-                  background: "#e2e8f0",
+                  background: "rgba(255,255,255,0.1)",
                   borderRadius: 4,
                   animation: "pulse 1.5s ease-in-out infinite",
                 }}
@@ -72,7 +72,7 @@ export default function FindCompanyNewsWidget() {
 
   if (articles.length === 0) {
     return (
-      <div style={{ fontFamily: "system-ui, sans-serif", padding: 16, color: "#666" }}>
+      <div style={{ fontFamily: "system-ui, sans-serif", padding: 16, color: "#aaa" }}>
         No recent news found for "{tool.input.company}".
       </div>
     );
@@ -80,7 +80,7 @@ export default function FindCompanyNewsWidget() {
 
   return (
     <div style={{ fontFamily: "system-ui, sans-serif", padding: 16 }}>
-      <h3 style={{ margin: "0 0 14px", fontSize: 15, color: "#1a202c" }}>
+      <h3 style={{ margin: "0 0 14px", fontSize: 15, color: "#e2e8f0" }}>
         News &mdash; {tool.input.company}
       </h3>
       <div style={{ position: "relative", paddingLeft: 20 }}>
@@ -96,7 +96,7 @@ export default function FindCompanyNewsWidget() {
                 borderLeft:
                   i === articles.length - 1
                     ? "2px solid transparent"
-                    : "2px solid #e2e8f0",
+                    : "2px solid rgba(255,255,255,0.1)",
               }}
             >
               {/* Timeline dot */}
@@ -118,7 +118,7 @@ export default function FindCompanyNewsWidget() {
                 style={{
                   fontSize: 14,
                   fontWeight: 600,
-                  color: "#1a202c",
+                  color: "#e2e8f0",
                   textDecoration: "none",
                   lineHeight: 1.4,
                 }}
@@ -126,7 +126,7 @@ export default function FindCompanyNewsWidget() {
                   (e.currentTarget.style.color = "#3b82f6")
                 }
                 onMouseLeave={(e) =>
-                  (e.currentTarget.style.color = "#1a202c")
+                  (e.currentTarget.style.color = "#e2e8f0")
                 }
               >
                 {article.title}
@@ -144,7 +144,7 @@ export default function FindCompanyNewsWidget() {
                     fontSize: 11,
                     fontWeight: 600,
                     color: "#3b82f6",
-                    background: "#ebf5ff",
+                    background: "rgba(59,130,246,0.15)",
                     padding: "2px 8px",
                     borderRadius: 10,
                   }}

@@ -5,20 +5,19 @@ const skeleton = Array.from({ length: 3 });
 export default function SearchPersonWidget() {
   const tool = useToolInfo<"search_person">();
 
-  if (tool.isIdle) return null;
-
-  if (tool.isPending) {
+  if (tool.isIdle || tool.isPending) {
+    const label =
+      tool.isPending
+        ? <>Searching for <strong>{tool.input.name}</strong> at <strong>{tool.input.company}</strong>...</>
+        : "Loading...";
     return (
       <div style={{ fontFamily: "system-ui, sans-serif", padding: 16 }}>
-        <p style={{ color: "#666", marginBottom: 12 }}>
-          Searching for <strong>{tool.input.name}</strong> at{" "}
-          <strong>{tool.input.company}</strong>...
-        </p>
+        <p style={{ color: "#ccc", marginBottom: 12 }}>{label}</p>
         {skeleton.map((_, i) => (
           <div
             key={i}
             style={{
-              border: "1px solid #e2e8f0",
+              border: "1px solid rgba(255,255,255,0.1)",
               borderRadius: 8,
               padding: 14,
               marginBottom: 10,
@@ -29,7 +28,7 @@ export default function SearchPersonWidget() {
               style={{
                 height: 14,
                 width: "60%",
-                background: "#e2e8f0",
+                background: "rgba(255,255,255,0.1)",
                 borderRadius: 4,
                 marginBottom: 8,
               }}
@@ -38,7 +37,7 @@ export default function SearchPersonWidget() {
               style={{
                 height: 10,
                 width: "90%",
-                background: "#e2e8f0",
+                background: "rgba(255,255,255,0.1)",
                 borderRadius: 4,
                 marginBottom: 6,
               }}
@@ -47,7 +46,7 @@ export default function SearchPersonWidget() {
               style={{
                 height: 10,
                 width: "40%",
-                background: "#e2e8f0",
+                background: "rgba(255,255,255,0.1)",
                 borderRadius: 4,
               }}
             />
@@ -66,7 +65,7 @@ export default function SearchPersonWidget() {
 
   if (results.length === 0) {
     return (
-      <div style={{ fontFamily: "system-ui, sans-serif", padding: 16, color: "#666" }}>
+      <div style={{ fontFamily: "system-ui, sans-serif", padding: 16, color: "#aaa" }}>
         No results found for "{tool.input.name}" at "{tool.input.company}".
       </div>
     );
@@ -74,7 +73,7 @@ export default function SearchPersonWidget() {
 
   return (
     <div style={{ fontFamily: "system-ui, sans-serif", padding: 16 }}>
-      <h3 style={{ margin: "0 0 12px", fontSize: 15, color: "#1a202c" }}>
+      <h3 style={{ margin: "0 0 12px", fontSize: 15, color: "#e2e8f0" }}>
         Results for {tool.input.name} at {tool.input.company}
       </h3>
       {results.map((r, i) => (
@@ -85,7 +84,7 @@ export default function SearchPersonWidget() {
           rel="noopener noreferrer"
           style={{
             display: "block",
-            border: "1px solid #e2e8f0",
+            border: "1px solid rgba(255,255,255,0.1)",
             borderRadius: 8,
             padding: 14,
             marginBottom: 10,
@@ -97,7 +96,7 @@ export default function SearchPersonWidget() {
             (e.currentTarget.style.borderColor = "#3b82f6")
           }
           onMouseLeave={(e) =>
-            (e.currentTarget.style.borderColor = "#e2e8f0")
+            (e.currentTarget.style.borderColor = "rgba(255,255,255,0.1)")
           }
         >
           <div style={{ display: "flex", alignItems: "baseline", gap: 8 }}>
@@ -111,7 +110,7 @@ export default function SearchPersonWidget() {
             >
               {i + 1}.
             </span>
-            <span style={{ fontWeight: 600, fontSize: 14, color: "#1a202c" }}>
+            <span style={{ fontWeight: 600, fontSize: 14, color: "#e2e8f0" }}>
               {r.title}
             </span>
           </div>
@@ -120,7 +119,7 @@ export default function SearchPersonWidget() {
               style={{
                 margin: "6px 0 4px 22px",
                 fontSize: 13,
-                color: "#4a5568",
+                color: "#a0aec0",
                 lineHeight: 1.4,
               }}
             >
