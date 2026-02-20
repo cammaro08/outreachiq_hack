@@ -104,6 +104,11 @@ export async function searchPerson(
 ): Promise<SearchResponse> {
   const query = `${name} ${company}`;
 
+  // Force mock mode if env var is set
+  if (process.env.MOCK_MODE === "true") {
+    return mockResponse(name, company);
+  }
+
   // Try lite endpoint first
   const liteResults = await searchDDGLite(query).catch(() => null);
   if (liteResults && liteResults.length > 0) {
@@ -117,6 +122,10 @@ export async function searchPerson(
   }
 
   // Both blocked — return mock data
+  return mockResponse(name, company);
+}
+
+function mockResponse(name: string, company: string): SearchResponse {
   return {
     isMock: true,
     results: [
